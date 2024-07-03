@@ -1,0 +1,12 @@
+**/.terraform/*
+**/builds/*
+
+*.tfstate
+*.tfstate.*
+
+
+**/secret.tfvars
+**/secret.tfvars.tfvars.json
+
+**/.terraform.tfstate.lock.info
+**/.terraform.lock.hcl
